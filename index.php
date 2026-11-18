@@ -9,10 +9,10 @@
 session_start();
 
 $admin_password = [
-	"[ADMIN PASSWORDS HERE]"
+	"rosy"
 ];
 
-$server = "localhost";
+$server = "rosylolmao.github.io/weirdlinks-on-github";
 $user = "[USER HERE]";
 $pass = "[PASS HERE]";
 $bank = "[BANK HERE]";
